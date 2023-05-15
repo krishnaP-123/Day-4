@@ -1,0 +1,56 @@
+.container1{
+    background-color: white;
+    padding: 30px;
+    
+    width: 500px;
+    height: 600px;
+
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+.container2{
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    padding: 30px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+.maincontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 50px;
+}
+
+.contact-icon {
+    min-width: 67px;
+    height: 67px;
+    display: inline-block;
+    border-radius: 50%;
+    background-color:blue;
+    color:white;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-right: 1rem;
+}
+      
+.contact-icon {
+  line-height: 67px;
+
+}
+
+.icontext{
+    display: flex;
+}
+.icontext{
+    display: flex;
+}
+
+
